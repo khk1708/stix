@@ -19,3 +19,9 @@ A DestinyChild model renamer.
 (이 파일들은 데스티니 차일드의 pck 파일들을 QuickBMS 스크립트로 압축 해제하면 나옵니다.)  
 4. 터미널을 열고 `npm install` 명령어를 실행합니다.  
 5. 터미널에서 `npm start` 명령어로 실행하시면 됩니다.  
+
+## 설명추가
+이 프로그램은 QuickBMS를 통해서 언팩된 파일들을 live2D Viewer에서 바로 볼 수 있도록
+이름을 변경해 주는 프로그램입니다.
+
+모델들의 옷 변경과는 무관합니다.
